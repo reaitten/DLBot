@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: bash DownloadBot.sh
+  worker: bash ./DownloadBot
