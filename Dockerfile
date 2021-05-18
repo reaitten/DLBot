@@ -1,3 +1,3 @@
-FROM reaitten/dl
+FROM reaitten/dlbot
 WORKDIR /DLBot
 COPY . .
