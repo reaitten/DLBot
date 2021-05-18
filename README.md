@@ -11,6 +11,6 @@ git init
 git add .
 git commit -m "initial commit"
 heroku git:remote add your-app-name
-heroku stack:set container -app your-app-name
+heroku stack:set container --app your-app-name
 git push heroku main
 ```
