@@ -3,7 +3,7 @@
 dl zipped repo, add config, push to heroku.
 refer to [this](https://github.com/gaowanliang/DownloadBot/blob/main/docs/DownloadBot_Guide_en.md) for more infomation
 
-RPC Secret: ```9ab3f87c20da9f017335```
+RPC Secret: ```a1417660913e88d7e774```
 
 **DON'T ABUSE!!**
 ```
