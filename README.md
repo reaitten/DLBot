@@ -1,6 +1,6 @@
 # DLBot
 ## notes
-**aria2 websocket cannot be initialized, to be add [this](https://github.com/P3TERX/Aria2-Pro-Docker) to [Dockerfile](/Dockerfile-build)**
+**aria2 websocket cannot be initialized, [aria2 docker image](https://github.com/P3TERX/Aria2-Pro-Docker) should be implemented to [Dockerfile](/Dockerfile-build)**
 
 dl zipped repo, add config, push to heroku.
 
