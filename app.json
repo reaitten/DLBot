@@ -1,0 +1,22 @@
+{
+  "name": "DLBot",
+  "description": "i don't know what you want me to say here",
+  "keywords": [
+    "download","bot","on","heroku"
+  ],
+  "repository": "https://github.com/reaitten/DLBot",
+  "success_url": "https://github.com/reaitten/DLBot",
+  "website": "https://github.com/reaitten/DLBot",
+  "env": {
+    } 
+  },
+ "stack": "container",
+ "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
