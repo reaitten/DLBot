@@ -1,3 +1,5 @@
+FROM registry.heroku.com/aria2ws/worker   
+
 FROM ubuntu:latest
 WORKDIR /DLBot
 
@@ -5,11 +7,6 @@ RUN apt-get -qq update && apt-get -qq upgrade -y
 RUN apt-get -qq install wget p7zip-full curl ca-certificates locales -y
 
 COPY . .
-
-RUN wget git.io/aria2.sh && chmod +x aria2.sh
-RUN chmod +x DownloadBot
-
-RUN yes 1 | ./aria2.sh
 
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \ 
 locale-gen
