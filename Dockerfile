@@ -1,4 +1,4 @@
-FROM registry.heroku.com/aria2ws/worker   
+FROM docker.pkg.github.com/reaitten/dlbot/aria2ws:latest  
 
 FROM ubuntu:latest
 WORKDIR /DLBot
