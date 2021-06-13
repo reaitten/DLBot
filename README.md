@@ -6,7 +6,7 @@ refer to [this](https://github.com/gaowanliang/DownloadBot/blob/main/docs/Downlo
 
 RPC Secret: ```reaitten```
 
-**DON'T ABUSE!!**
+**don't abuse bruh.**
 
 ```
 git init
