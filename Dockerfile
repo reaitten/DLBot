@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/reaitten/dlbot/aria2ws:latest  
+FROM reaitten/aria2ws
 
 FROM ubuntu:latest
 WORKDIR /DLBot
