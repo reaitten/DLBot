@@ -8,6 +8,11 @@ RPC Secret: ```reaitten```
 
 **don't abuse bruh.**
 
+<p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/DLBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
+  
+## manual deployment
+  
 ```
 git init
 git add .
@@ -16,4 +21,3 @@ heroku git:remote add your-app-name
 heroku stack:set container --app your-app-name
 git push heroku main
 ```
-<p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/DLBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
