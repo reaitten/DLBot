@@ -1,14 +1,13 @@
 # DLBot
 ## notes
-**aria2 websocket cannot be initialized, [aria2 docker image](https://github.com/P3TERX/Aria2-Pro-Docker) should be implemented to [Dockerfile](/Dockerfile-build)**
-
 dl zipped repo, add config, push to heroku.
 
 refer to [this](https://github.com/gaowanliang/DownloadBot/blob/main/docs/DownloadBot_Guide_en.md) for more infomation
 
-RPC Secret: ```acd023f3687786cd5d67```
+RPC Secret: ```reaitten```
 
 **DON'T ABUSE!!**
+
 ```
 git init
 git add .
