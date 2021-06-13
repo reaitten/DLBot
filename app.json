@@ -7,8 +7,6 @@
   "repository": "https://github.com/reaitten/DLBot",
   "success_url": "https://github.com/reaitten/DLBot",
   "website": "https://github.com/reaitten/DLBot",
-  "env": {
-    } 
   },
  "stack": "container",
  "addons": [
