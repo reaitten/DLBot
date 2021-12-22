@@ -1,4 +1,9 @@
 # DLBot
+
+## notice
+doesn't work, something with aria2ws not working
+to be fixed
+
 ## notes
 dl zipped repo, add config, push to heroku.
 
